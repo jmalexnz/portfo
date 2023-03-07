@@ -74,7 +74,18 @@
 # deploying app online:
 # use pythonanywhere,https://www.pythonanywhere.com/
 # clone the repo https.
-
+# open a bash console and go git clone <link>
+# note: this is a linux terminal 
+# All your files will appear in files on the dashboard
+# we get one free web app with free membership
+#  https://help.pythonanywhere.com/pages/Flask
+# enter the path to the source code.
+# follow the instructions at the link for setting up the venv and install flask
+# or run pip install -r requirements.txt if many things to install
+# specify path to venv in the webapp page
+# update the config file so the path to your app is correct
+# and its importing from the code page.
+# database.csv will update in pythonanywhere
 
 from flask import Flask, render_template, request, redirect
 import csv
