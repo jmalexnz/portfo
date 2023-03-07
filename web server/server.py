@@ -30,6 +30,7 @@
 # that debug mode is off
 # turn it on by executing
 # export FLASK_ENV=development
+# or export FLASK_DEBUG=1
 # then it will say debugger is active
 # the server will auto restart when you make changes
 
