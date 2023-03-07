@@ -1,4 +1,0 @@
-email,subject,message
-jmalex.nz@gmail.com,erg,njjk
-jmalex.nz@gmail.com,erg,njjk
-jmalex.nz@gmail.com,erg,njjk
