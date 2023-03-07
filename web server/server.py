@@ -34,6 +34,10 @@
 # then it will say debugger is active
 # the server will auto restart when you make changes
 
+# when pushing to git don't need the virtual env
+# go pip freeze > requirements.txt
+
+
 # flask converts text to html so the browser can understand it
 # or you can use render_template to use your own html files
 
